@@ -1,0 +1,22 @@
+{
+  "name": "accessible-components",
+  "version": "1.0.0",
+  "description": "A collection of accessible React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop"
+  },
+  "keywords": [
+    "a11y",
+    "react",
+    "components"
+  ],
+  "author": "Megan Sullivan",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^2.25.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
